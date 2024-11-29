@@ -1,0 +1,3 @@
+C:/Users/prana/Documents/Projects/FPGA-Soc/seven_segment/seven_segment_platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/Users/prana/Documents/Projects/FPGA-Soc/seven_segment/seven_segment_platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/Users/prana/Documents/Projects/FPGA-Soc/seven_segment/seven_segment_platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
